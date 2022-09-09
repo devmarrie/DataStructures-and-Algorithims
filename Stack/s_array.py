@@ -1,5 +1,3 @@
-# maxsize return infinite when stack is empty
-from sys import maxsize
 
 # Create a stack
 
